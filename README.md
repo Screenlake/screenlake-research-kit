@@ -1,5 +1,9 @@
 # Princeton Screenlake Mobile Analytics & Recording Tool (SMART)
 
+## Disclaimer
+Academics looking for the latest developments associated with this tool should go to the fork hosted by Princeton University:
+https://github.com/researchaccelerator-hub/princeton-smart/actions
+
 ## Explanatory Research Guide for Faculty, PIs, ICs, and Researchers
 - [Princeton SMART: A Practical Guide](https://docs.google.com/document/d/1TMU9V169so5C-JHJscVokS_iKi2IjCiabze07KnQ41E/edit?usp=sharing)
 
